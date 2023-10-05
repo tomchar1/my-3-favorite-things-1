@@ -1,0 +1,34 @@
+body {
+    width: 600px;
+    margin: 90px auto;
+    background-color: aliceblue;
+    border-radius: 15px;
+    height: 2500px;
+    padding: 50px 75px;
+    border: 15px  rgb(14, 12, 15);
+    
+
+}
+html {
+    background-color: rgb(119, 119, 190);
+}
+h1{ 
+    margin:px;
+}
+div{ 
+    text-align: center;
+    
+background-color: rgb(165, 231, 233);
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: magenta;
+}
+img {
+    
+}
+a {
+    text-decoration:blue;
+    cursor: pointer;
+}
+
